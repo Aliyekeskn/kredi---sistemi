@@ -1,1 +1,1 @@
-# kredi---sistemi
+# kredi-sistemi
